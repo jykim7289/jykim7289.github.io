@@ -19,7 +19,7 @@ gl.enable(gl.SCISSOR_TEST);
 gl.clear(gl.COLOR_BUFFER_BIT);
 
 // Start rendering
-render();
+//render();
 
 // Render loop
 function render() {
